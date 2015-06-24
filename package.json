@@ -19,9 +19,9 @@
     }
   ],
   "dependencies": {
+    "encoding": "~0.1.7",
     "jsdom": "^1.0.3",
-    "request": "~2.40.0",
-    "encoding": "~0.1.7"
+    "request": "git+https://github.com/Lupino/request.git"
   },
   "engines": [
     "node >=0.8.0"
